@@ -1,0 +1,8 @@
+Check updates:
+
+git fetch upstream; git checkout master; git merge upstream/master
+
+
+To upload a file in your copy of LAbOfCompPhysics_Y3
+
+git add 00ex_introduction.ipynb; git commit -m "6/10"; git branch -M master; git push -u origin master
