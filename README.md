@@ -40,7 +40,7 @@ In particular, if you are working in a location where such repo already exist, w
 
 `git remote add upstream https://github.com/PhysicsOfData/LaboratoryOfComputationalPhysics_Y3.git`
 
-`git remote set-url origin https://YOUR_GIT_ACCOUNT@github.com/YOUR_GIT_ACCOUNT/LaboratoryOfComputationalPhysics_Y3.git`
+`git remote set-url origin https://pmiglioranza@github.com/pmiglioranza/LaboratoryOfComputationalPhysics_Y3.git`
 
 `git remote -v`
 
